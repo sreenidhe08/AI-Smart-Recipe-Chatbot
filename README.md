@@ -1,4 +1,3 @@
-````md
 # AI Smart Recipe Chatbot
 
 An AI-powered culinary assistant that combines **LLMs, Retrieval-Augmented Generation (RAG), recipe APIs, and YouTube transcript analysis** to provide intelligent and context-aware cooking assistance.
@@ -32,7 +31,7 @@ Query Processing
            Gemini LLM
                 ↓
           AI Response
-````
+```
 
 ## Tech Stack
 
